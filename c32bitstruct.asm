@@ -12,8 +12,9 @@ print_animal:
     ; stack alignment for printf
     sub esp, 12 
     ; animal name: [ebp+8] (10 bytes long)
-    ; [ebp+8+10] - total legs
-    push dword [ebp+18]  ; total legs
+    ; padding +2 bytes.
+    ; [ebp+8+2+10] - total legs
+    push dword [ebp+20]  ; total legs
     lea eax, [ebp+8]
     push dword eax       ; address of animal name
     push dword fmt       ; address of fmt label
