@@ -74,14 +74,12 @@ If this repo helps you, please **star the repository** and share it—this helps
 
 - Website: https://dragonzap.com  
 - YouTube: Dragon Zap Education  
-- Discord (community questions): https://discord.gg/ATeen8xb  
 
 ---
 
-### 🏷️ Hashtags (Optional for Social Posts)
+### 🏷️ Hashtags
 
 `#assembly #x86_64 #nasm #lowlevelprogramming #systemsprogramming #kerneldev #dragonzap #programming`
 
 ---
 
-If you'd like a **banner image**, a **GIF**, or a **badges section**, I can generate those too.
