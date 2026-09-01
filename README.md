@@ -8,7 +8,7 @@ This repository contains sample code, snippets, and supporting materials for the
 ## 🚀 Take the Full Video Course  
 Click the button below to access the complete course with **all lessons**, **downloads**, and **lifetime access**.
 
-[![Take the Course](https://img.shields.io/badge/Start%20the%20Course-DragonZap.com-blue?style=for-the-badge)](https://dragonzap.com/course/mastering-64bit-assembly-language-programming-with-nasm-and-c-integration?coupon=GITHUBASSEMBLYDISCOUNT)
+[![Take the Course](https://img.shields.io/badge/Start%20the%20Course-DragonZap.com-blue?style=for-the-badge)](https://dragonzap.com/course/mastering-64bit-assembly-language-programming-with-nasm-and-c-integration?coupon=GITHUB202627DISCOUNT)
 
 ---
 
